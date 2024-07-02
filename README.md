@@ -17,7 +17,7 @@ Leverage the AI's knowledge base to get answers to a wide range of questions.
 To get started with the AI-Powered UI Application, follow these steps:
 
 Clone the repository:
-git clone https://github.com/AryanGupta1211/Gemini-App.git
+git clone https://github.com/aishwarya30998/Gemini_LLM_APP.git
 Install the required dependencies:
 pip install -r requirements.txt
 create a file with .env and place gemini api key in it to be called from gemini_utility_file
